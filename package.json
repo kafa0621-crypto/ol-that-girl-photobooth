@@ -1,0 +1,9 @@
+{
+  "name": "ol-that-girl-photobooth",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/blob": "latest"
+  }
+}
